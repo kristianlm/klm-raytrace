@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1161515122 c:\documents and settings\kristian\my documents\proj\pix\image.cpp
+	<windows.h>
+	<stdio.h>
+	"image.h"
+
+1161514435 c:\documents and settings\kristian\my documents\proj\pix\image.h
+
+1160735149 c:\documents and settings\kristian\my documents\proj\pix\intersectinfo.h
+
+1161516233 c:\documents and settings\kristian\my documents\proj\pix\graphmain.cpp
+	<windows.h>
+	<stdio.h>
+	"image.h"
+	"pathnode.h"
+	"unit.h"
+
+1161516241 c:\documents and settings\kristian\my documents\proj\pix\pathnode.cpp
+	<windows.h>
+	<math.h>
+	"draw.h"
+	"pathnode.h"
+
+1161516197 c:\documents and settings\kristian\my documents\proj\pix\pathnode.h
+	<windows.h>
+	"image.h"
+
+1161516106 c:\documents and settings\kristian\my documents\proj\pix\draw.cpp
+	<windows.h>
+	<math.h>
+	"draw.h"
+
+1161516072 c:\documents and settings\kristian\my documents\proj\pix\draw.h
+	<windows.h>
+	"image.h"
+
+1160834308 c:\documents and settings\kristian\my documents\proj\pix\vector.cpp
+	<math.h>
+	<stdio.h>
+	"vector.h"
+	"Camera.h"
+
+1161170960 c:\documents and settings\kristian\my documents\proj\pix\vector.h
+	<windows.h>
+	"image.h"
+	"intersectinfo.h"
+
+1160819832 c:\documents and settings\kristian\my documents\proj\pix\camera.h
+	"vector.h"
+
+1161516318 c:\documents and settings\kristian\my documents\proj\pix\unit.cpp
+	<windows.h>
+	"draw.h"
+	"unit.h"
+	"pathnode.h"
+	"vectorS.h"
+
+1161516318 c:\documents and settings\kristian\my documents\proj\pix\unit.h
+	<windows.h>
+
+1161514391 c:\documents and settings\kristian\my documents\proj\pix\vectors.h
+	<windows.h>
+	"image.h"
+
+1161514478 c:\documents and settings\kristian\my documents\proj\pix\vactors.cpp
+	<math.h>
+	<stdio.h>
+	"draw.h"
+	"vectorS.h"
+

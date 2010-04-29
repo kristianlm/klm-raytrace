@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="GraphMain.cpp" open="1" top="1">
+		<Cursor position="3474" topLine="99"/>
+	</File>
+	<File name="draw.cpp" open="1" top="0">
+		<Cursor position="385" topLine="37"/>
+	</File>
+	<File name="draw.h" open="1" top="0">
+		<Cursor position="2" topLine="0"/>
+	</File>
+	<File name="image.cpp" open="1" top="0">
+		<Cursor position="1067" topLine="46"/>
+	</File>
+	<File name="image.h" open="1" top="0">
+		<Cursor position="231" topLine="6"/>
+	</File>
+	<File name="pathnode.cpp" open="1" top="0">
+		<Cursor position="898" topLine="0"/>
+	</File>
+	<File name="pathnode.h" open="1" top="0">
+		<Cursor position="190" topLine="0"/>
+	</File>
+	<File name="unit.cpp" open="1" top="0">
+		<Cursor position="359" topLine="0"/>
+	</File>
+	<File name="unit.h" open="1" top="0">
+		<Cursor position="201" topLine="0"/>
+	</File>
+	<Expand folder="/Sources"/>
+	<Expand folder="/Headers"/>
+</CodeBlocks_layout_file>

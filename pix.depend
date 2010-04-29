@@ -1,0 +1,583 @@
+# depslib dependency file v1.0
+1161170609 c:\documents and settings\kristian\my documents\proj\pix\avi.cpp
+	<windows.h>
+	<Vfw.h>
+	<stdio.h>
+	"avi.h"
+
+962074860 c:\borland\bcc55\include\windows.h
+	<winresrc.h>
+	<mem.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock2.h>
+	<mswsock.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<winwlm.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+962074860 c:\borland\bcc55\include\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+962074860 c:\borland\bcc55\include\winuser.rh
+
+962074860 c:\borland\bcc55\include\commctrl.rh
+
+962074860 c:\borland\bcc55\include\dde.rh
+
+962074860 c:\borland\bcc55\include\winnt.rh
+
+962074860 c:\borland\bcc55\include\dlgs.h
+
+962074860 c:\borland\bcc55\include\winver.h
+
+962074860 c:\borland\bcc55\include\mem.h
+	<_stddef.h>
+
+962074860 c:\borland\bcc55\include\_stddef.h
+	<_defs.h>
+	<_null.h>
+
+962074860 c:\borland\bcc55\include\_defs.h
+
+962074860 c:\borland\bcc55\include\_null.h
+
+962074860 c:\borland\bcc55\include\excpt.h
+
+962074860 c:\borland\bcc55\include\stdarg.h
+	<_stddef.h>
+
+962074860 c:\borland\bcc55\include\windef.h
+	<winnt.h>
+
+962074860 c:\borland\bcc55\include\winnt.h
+	<ctype.h>
+	<basetsd.h>
+	<guiddef.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"pshpack2.h"
+	"pshpack1.h"
+	"poppack.h"
+	"pshpack2.h"
+	"poppack.h"
+	"pshpack8.h"
+	"poppack.h"
+	"poppack.h"
+	<string.h>
+	<string.h>
+
+962074860 c:\borland\bcc55\include\ctype.h
+	<_stddef.h>
+	<mbctype.h>
+
+962074860 c:\borland\bcc55\include\mbctype.h
+	<_stddef.h>
+	<ctype.h>
+
+962074860 c:\borland\bcc55\include\basetsd.h
+
+962074860 c:\borland\bcc55\include\guiddef.h
+	<string.h>
+
+962074860 c:\borland\bcc55\include\string.h
+	<_str.h>
+	<_str.h>
+	<string.stl>
+
+962074860 c:\borland\bcc55\include\_str.h
+	<_stddef.h>
+	<locale.h>
+	<mem.h>
+
+962074860 c:\borland\bcc55\include\locale.h
+	<_loc.h>
+	<_loc.h>
+	<locale.stl>
+
+962074860 c:\borland\bcc55\include\_loc.h
+	<_stddef.h>
+
+962074860 c:\borland\bcc55\include\locale.stl
+	<rw/rwlocale>
+	<rw/iosbase>
+	<rw/ctype>
+	<rw/codecvt>
+	<rw/collate>
+	<rw/numeral>
+	<rw/time>
+	<rw/money>
+	<rw/messages>
+	<rw/vendor>
+	<rw/usefacet>
+	<rw/numbrw>
+	<iomanip>
+
+962074860 c:\borland\bcc55\include\string.stl
+	<stdcomp.h>
+	<rw/rwstderr.h>
+	<cstring>
+	<cctype>
+	<string.h>
+	<ctype.h>
+	<wchar.h>
+	<cwchar>
+	<cwctype>
+	<wchar.h>
+	<wctype.h>
+	<iostream.h>
+	<rw/string_ref>
+	<stdexcept>
+	<string.cc>
+
+962074860 c:\borland\bcc55\include\stdcomp.h
+	<compnent.h>
+	<cassert>
+	<assert.h>
+
+962074860 c:\borland\bcc55\include\compnent.h
+
+962074860 c:\borland\bcc55\include\assert.h
+	<_stddef.h>
+
+962074860 c:\borland\bcc55\include\rw\rwstderr.h
+	<stdcomp.h>
+	<rw/stddefs.h>
+	<stdarg.h>
+	<rw/rwstderr_macros.h>
+
+962074860 c:\borland\bcc55\include\rw\stddefs.h
+	<stdcomp.h>
+	<cstddef>
+	<stddef.h>
+	<rw/stdwind.h>
+	<cassert>
+	<assert.h>
+	<_defs.h>
+
+962074860 c:\borland\bcc55\include\stddef.h
+	<_stddef.h>
+
+962074860 c:\borland\bcc55\include\rw\stdwind.h
+
+962074860 c:\borland\bcc55\include\wchar.h
+	<tchar.h>
+
+962074860 c:\borland\bcc55\include\tchar.h
+	<_stddef.h>
+	<string.h>
+	<string.h>
+	<mbstring.h>
+
+962074860 c:\borland\bcc55\include\mbstring.h
+	<string.h>
+	<_stddef.h>
+	<mbctype.h>
+
+962074860 c:\borland\bcc55\include\wctype.h
+	<tchar.h>
+
+962074860 c:\borland\bcc55\include\iostream.h
+	<stdcomp.h>
+	<istream>
+	<ostream>
+
+962074860 c:\borland\bcc55\include\string.cc
+	<stdcomp.h>
+
+962074860 c:\borland\bcc55\include\pshpack4.h
+
+962074860 c:\borland\bcc55\include\poppack.h
+
+962074860 c:\borland\bcc55\include\pshpack2.h
+
+962074860 c:\borland\bcc55\include\pshpack1.h
+
+962074860 c:\borland\bcc55\include\pshpack8.h
+
+962074860 c:\borland\bcc55\include\winbase.h
+	<macwin32.h>
+	<winerror.h>
+
+962074860 c:\borland\bcc55\include\winerror.h
+
+962074860 c:\borland\bcc55\include\wingdi.h
+	<macwin32.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"poppack.h"
+
+962074860 c:\borland\bcc55\include\winuser.h
+	<macwin32.h>
+	<stdarg.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+
+962074860 c:\borland\bcc55\include\tvout.h
+	<guiddef.h>
+
+962074860 c:\borland\bcc55\include\winnls.h
+	<macwin32.h>
+
+962074860 c:\borland\bcc55\include\wincon.h
+
+962074860 c:\borland\bcc55\include\winreg.h
+	<macwin32.h>
+
+962074860 c:\borland\bcc55\include\winnetwk.h
+
+962074860 c:\borland\bcc55\include\cderr.h
+
+962074860 c:\borland\bcc55\include\dde.h
+	<windef.h>
+
+962074860 c:\borland\bcc55\include\ddeml.h
+
+962074860 c:\borland\bcc55\include\lzexpand.h
+
+962074860 c:\borland\bcc55\include\mmsystem.h
+	<pshpack1.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\nb30.h
+
+962074860 c:\borland\bcc55\include\rpc.h
+	<windows.h>
+	<pshpack2.h>
+	<basetsd.h>
+	<pshpack8.h>
+	<setjmp.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcerr.h>
+	<rpcmac.h>
+	<poppack.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<excpt.h>
+	<winerror.h>
+	<rpcasync.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\setjmp.h
+	<_defs.h>
+
+962074860 c:\borland\bcc55\include\rpcdce.h
+	<guiddef.h>
+	<rpcdcep.h>
+
+962074860 c:\borland\bcc55\include\rpcdcep.h
+
+962074860 c:\borland\bcc55\include\rpcnsi.h
+
+962074860 c:\borland\bcc55\include\rpcnterr.h
+
+962074860 c:\borland\bcc55\include\rpcasync.h
+	<pshpack8.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\shellapi.h
+	<pshpack1.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\winperf.h
+	<pshpack8.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\winsock2.h
+	<pshpack4.h>
+	<windows.h>
+	<qos.h>
+	<guiddef.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\qos.h
+
+962074860 c:\borland\bcc55\include\mswsock.h
+
+962074860 c:\borland\bcc55\include\winsock.h
+	<windows.h>
+
+962074860 c:\borland\bcc55\include\wincrypt.h
+
+962074860 c:\borland\bcc55\include\winefs.h
+
+962074860 c:\borland\bcc55\include\winscard.h
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+
+962074860 c:\borland\bcc55\include\wtypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"basetsd.h"
+	"guiddef.h"
+
+962074860 c:\borland\bcc55\include\rpcndr.h
+	<pshpack8.h>
+	<basetsd.h>
+	<rpcnsip.h>
+	<pshpack4.h>
+	<poppack.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\rpcnsip.h
+
+962074860 c:\borland\bcc55\include\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\winsmcrd.h
+
+962074860 c:\borland\bcc55\include\scarderr.h
+
+962074860 c:\borland\bcc55\include\winspool.h
+	<prsht.h>
+
+962074860 c:\borland\bcc55\include\prsht.h
+	<pshpack8.h>
+	<pshpack4.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\ole2.h
+	<pshpack8.h>
+	"macname1.h"
+	<winerror.h>
+	<macpub.h>
+	<objbase.h>
+	<oleauto.h>
+	<oleidl.h>
+	<poppack.h>
+	<macapi.h>
+	"macname2.h"
+
+962074860 c:\borland\bcc55\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<guiddef.h>
+	<cguid.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\stdlib.h
+	<_stddef.h>
+	<search.h>
+
+962074860 c:\borland\bcc55\include\search.h
+	<_stddef.h>
+
+962074860 c:\borland\bcc55\include\unknwn.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypes.h"
+
+962074860 c:\borland\bcc55\include\objidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+
+962074860 c:\borland\bcc55\include\cguid.h
+
+962074860 c:\borland\bcc55\include\urlmon.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"servprov.h"
+	"msxml.h"
+
+962074860 c:\borland\bcc55\include\oleidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+962074860 c:\borland\bcc55\include\servprov.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+962074860 c:\borland\bcc55\include\msxml.h
+	"rpc.h"
+	"rpcndr.h"
+	"unknwn.h"
+	"objidl.h"
+	"oaidl.h"
+
+962074860 c:\borland\bcc55\include\oaidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+962074860 c:\borland\bcc55\include\propidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+
+962074860 c:\borland\bcc55\include\oleauto.h
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\commdlg.h
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+
+962074860 c:\borland\bcc55\include\winsvc.h
+
+962074860 c:\borland\bcc55\include\mcx.h
+
+962074860 c:\borland\bcc55\include\imm.h
+
+962074860 c:\borland\bcc55\include\vfw.h
+	<mmsystem.h>
+	"pshpack8.h"
+	<mmreg.h>
+	<ole2.h>
+	<msacm.h>
+	"poppack.h"
+
+962074860 c:\borland\bcc55\include\mmreg.h
+	"pshpack1.h"
+	"poppack.h"
+
+962074860 c:\borland\bcc55\include\msacm.h
+
+962074860 c:\borland\bcc55\include\stdio.h
+	<_stddef.h>
+	<_nfile.h>
+
+962074860 c:\borland\bcc55\include\_nfile.h
+
+1160683021 c:\documents and settings\kristian\my documents\proj\pix\avi.h
+	<windows.h>
+	<vfw.h>
+
+1160318542 c:\documents and settings\kristian\my documents\proj\pix\object.cpp
+	"vector.h"
+
+1161170960 c:\documents and settings\kristian\my documents\proj\pix\vector.h
+	<windows.h>
+	"image.h"
+	"intersectinfo.h"
+
+1160834308 c:\documents and settings\kristian\my documents\proj\pix\vector.cpp
+	<math.h>
+	<stdio.h>
+	"vector.h"
+	"Camera.h"
+
+962074860 c:\borland\bcc55\include\math.h
+	<_stddef.h>
+	<fastmath.h>
+
+962074860 c:\borland\bcc55\include\fastmath.h
+	<_defs.h>
+	<math.h>
+
+1161170376 c:\documents and settings\kristian\my documents\proj\pix\project1.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	"Project1_res.h"
+	"avi.h"
+	"image.h"
+	"vector.h"
+	"camera.h"
+
+1160232274 c:\documents and settings\kristian\my documents\proj\pix\project1_res.h
+
+1160834218 c:\documents and settings\kristian\my documents\proj\pix\image.cpp
+	<windows.h>
+	<stdio.h>
+	"image.h"
+
+1160833252 c:\documents and settings\kristian\my documents\proj\pix\image.h
+	"intersectinfo.h"
+
+1160735149 c:\documents and settings\kristian\my documents\proj\pix\intersectinfo.h
+
+1160819832 c:\documents and settings\kristian\my documents\proj\pix\camera.h
+	"vector.h"
+
+1160830841 c:\documents and settings\kristian\my documents\proj\pix\camera.cpp
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	"Camera.h"
+	"Vector.h"
+

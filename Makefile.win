@@ -1,0 +1,57 @@
+# Project: devpix
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = avi.o Camera.o Common.o draw.o image.o LightSource.o object.o ObjLoader.o Project1.o vector.o $(RES)
+LINKOBJ  = avi.o Camera.o Common.o draw.o image.o LightSource.o object.o ObjLoader.o Project1.o vector.o $(RES)
+LIBS =  -L"O:/Dev-Cpp/lib" -mwindows O:/Dev-Cpp/lib/libvfw32.a O:/Dev-Cpp/lib/libuser32.a O:/Dev-Cpp/lib/libwin32k.a O:/Dev-Cpp/lib/libGdi32.a  -march=athlon-xp -m3dnow 
+INCS =  -I"O:/Dev-Cpp/include" 
+CXXINCS =  -I"O:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"O:/Dev-Cpp/include/c++/3.4.2/backward"  -I"O:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"O:/Dev-Cpp/include/c++/3.4.2"  -I"O:/Dev-Cpp/include" 
+BIN  = devpix.exe
+CXXFLAGS = $(CXXINCS)   -fexpensive-optimizations -O3 -march=athlon-xp -m3dnow
+CFLAGS = $(INCS)   -fexpensive-optimizations -O3 -march=athlon-xp -m3dnow
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before devpix.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "devpix.exe" $(LIBS)
+
+avi.o: avi.cpp
+	$(CPP) -c avi.cpp -o avi.o $(CXXFLAGS)
+
+Camera.o: Camera.cpp
+	$(CPP) -c Camera.cpp -o Camera.o $(CXXFLAGS)
+
+Common.o: Common.cpp
+	$(CPP) -c Common.cpp -o Common.o $(CXXFLAGS)
+
+draw.o: draw.cpp
+	$(CPP) -c draw.cpp -o draw.o $(CXXFLAGS)
+
+image.o: image.cpp
+	$(CPP) -c image.cpp -o image.o $(CXXFLAGS)
+
+LightSource.o: LightSource.cpp
+	$(CPP) -c LightSource.cpp -o LightSource.o $(CXXFLAGS)
+
+object.o: object.cpp
+	$(CPP) -c object.cpp -o object.o $(CXXFLAGS)
+
+ObjLoader.o: ObjLoader.cpp
+	$(CPP) -c ObjLoader.cpp -o ObjLoader.o $(CXXFLAGS)
+
+Project1.o: Project1.cpp
+	$(CPP) -c Project1.cpp -o Project1.o $(CXXFLAGS)
+
+vector.o: vector.cpp
+	$(CPP) -c vector.cpp -o vector.o $(CXXFLAGS)

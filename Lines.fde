@@ -1,0 +1,94 @@
+[Relo Project 1.1]
+10
+C20061009230949 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of Project1.cpp
+H20000627050100I0windows.h
+H20000627050100I0stdio.h
+H20000627050100I0math.h
+H20061007164434L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1_res.h
+C20061009224854 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of vector.cpp
+H20000627050100I0math.h
+H20061008132730L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of vector.h
+H20000627050100I0windows.h
+H20061008132730L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of vector.h
+-1
+0
+0
+0
+0
+-1
+5
+5
+7
+0
+
+[Relative Filenames]
+RelativeFileName=0,Copy of Project1.cpp
+RelativeFileName=4,Project1_res.h
+RelativeFileName=5,Copy of vector.cpp
+RelativeFileName=7,Copy of vector.h
+RelativeFileName=9,Copy of vector.h
+
+[Include Paths]
+
+[Library Paths]
+
+[Options]
+Output=Lines.exe
+Libraries=
+ApplicationType=windows
+WindowsApp=yes
+ForceCppCompile=no
+ExcludeCppLib=no
+TurnOffWarnings=no
+ExtraCompileSwitches=
+ExtraLinkSwitches=
+ExtraLinkSwitches=
+OverrideTabSize=0
+DisableLibraries=no
+CreateImportLibrary=yes
+CreateDefFile=yes
+DefFileName=
+NormalBuild=yes
+RunMake=no
+PreBuild=no
+PreBuildCmd=
+PostBuild=no
+PostBuildCmd=
+PMHeadersExpand=yes
+PMResExpand=no
+PMDocExpand=no
+PMMiscExpand=no
+WebHost=http://
+WebPath=c:\www
+WebOpenUrl=no
+
+[Open Files]
+OpenFile=1,8,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of vector.cpp
+OpenFile=1,5,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.h
+OpenFile=2,116,97,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of Project1.cpp
+OpenFile=2,31,22,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of vector.h
+CurrentOpenFile=C:\Documents and Settings\Kristian\My Documents\Proj\pix\Copy of Project1.cpp
+
+[Closed Files]
+
+[Windows]
+ProjManDocked=yes
+ProjManVisible=yes
+ProjManPos=0,112,169,510
+ProjManPage=0
+ProjManAlignLeft=yes
+Toolbar=yes
+CompilerOutput=yes
+CodeWndState=2
+CodeWndPos=0,0,0,0
+
+[Code Hints]
+CodeHintFile=WindowsAPI.hint
+CodeHintFile=ansi_c.hint
+CodeHintFile=nonstd_c.hint
+
+[Run Parameters]
+CurrentParams=
+RunWorkDir=
+
+[Find Keywords]

@@ -1,0 +1,132 @@
+[Relo Project 1.1]
+22
+C20061012203026 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1.cpp
+R20061007164433 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1.rc
+H20061007154134 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1_res.h
+H20000627050100I0windows.h
+H20000627050100I0windows.h
+H20061007164434L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1_res.h
+H20061007164434L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1_res.h
+C20061012173636 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.cpp
+H20061007165007 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.h
+H20000627050100I0math.h
+H20061012180522L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.h
+H20000627050100I0stdio.h
+H20061012180522L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.h
+H20000627050100I0windows.h
+H20000627050100I0math.h
+C20061008164222 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\object.cpp
+H20061008164207 0C:\Documents and Settings\Kristian\My Documents\Proj\pix\Object.h
+H20061012180522L0C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.h
+H20000627050100I0windows.h
+H20000627050100I0stdio.h
+H20061012203118 1C:\Documents and Settings\Kristian\My Documents\Proj\pix\avi.h
+C20061012203118 1C:\Documents and Settings\Kristian\My Documents\Proj\pix\avi.cpp
+-1
+-1
+-1
+0
+1
+0
+1
+-1
+-1
+7
+7
+0
+0
+10
+0
+-1
+-1
+15
+17
+7
+-1
+-1
+
+[Relative Filenames]
+RelativeFileName=0,Project1.cpp
+RelativeFileName=1,Project1.rc
+RelativeFileName=2,Project1_res.h
+RelativeFileName=5,Project1_res.h
+RelativeFileName=6,Project1_res.h
+RelativeFileName=7,vector.cpp
+RelativeFileName=8,vector.h
+RelativeFileName=10,vector.h
+RelativeFileName=12,vector.h
+RelativeFileName=15,object.cpp
+RelativeFileName=16,Object.h
+RelativeFileName=17,vector.h
+RelativeFileName=20,avi.h
+RelativeFileName=21,avi.cpp
+
+[Include Paths]
+
+[Library Paths]
+
+[Options]
+Output=Project1.exe
+Libraries=winmm.lib
+ApplicationType=windows
+WindowsApp=yes
+ForceCppCompile=no
+ExcludeCppLib=no
+TurnOffWarnings=no
+ExtraCompileSwitches=
+ExtraLinkSwitches=
+ExtraLinkSwitches=
+OverrideTabSize=0
+DisableLibraries=no
+CreateImportLibrary=yes
+CreateDefFile=yes
+DefFileName=
+NormalBuild=yes
+RunMake=no
+PreBuild=no
+PreBuildCmd=
+PostBuild=no
+PostBuildCmd=
+PMHeadersExpand=yes
+PMResExpand=yes
+PMDocExpand=no
+PMMiscExpand=no
+WebHost=http://
+WebPath=c:\www
+WebOpenUrl=no
+
+[Open Files]
+OpenFile=2,504,240,1,462,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1.cpp
+OpenFile=1,31,7,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1.rc
+OpenFile=28,6,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\Project1_res.h
+OpenFile=1,61,37,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.cpp
+OpenFile=1,2,1,1,0,0,0,0,0,0,0,0,0,0,C:\Program Files\Relo\temp\untitled2.cpp
+OpenFile=1,8,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\vector.h
+OpenFile=1,3,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\object.cpp
+OpenFile=21,2,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\avi.h
+CurrentOpenFile=C:\Documents and Settings\Kristian\My Documents\Proj\pix\avi.h
+
+[Closed Files]
+ClosedFile=1,7,1,1,0,0,0,0,0,0,0,0,0,0,C:\Documents and Settings\Kristian\My Documents\Proj\pix\sh0.bmp
+
+[Windows]
+ProjManDocked=yes
+ProjManVisible=yes
+ProjManPos=0,112,169,510
+ProjManPage=0
+ProjManAlignLeft=yes
+Toolbar=yes
+CompilerOutput=yes
+CodeWndState=2
+CodeWndPos=0,0,0,0
+
+[Code Hints]
+CodeHintFile=WindowsAPI.hint
+CodeHintFile=ansi_c.hint
+CodeHintFile=nonstd_c.hint
+
+[Run Parameters]
+CurrentParams=
+RunWorkDir=
+
+[Find Keywords]

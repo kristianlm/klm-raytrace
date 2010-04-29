@@ -1,0 +1,31 @@
+// Project1 : Resource File
+
+#ifndef WS_VISIBLE
+#include <windows.h>
+#endif
+
+#include "Project1_res.h"
+
+IDD_ABOUTBOX DIALOGEX DISCARDABLE 20, 20, 208, 86
+STYLE WS_CAPTION | WS_POPUP
+CAPTION "About Project1"
+FONT 8, "Tahoma"
+BEGIN
+    DEFPUSHBUTTON "OK",IDOK,151,7,50,14,0
+    PUSHBUTTON "Cancel",IDCANCEL,151,24,50,14,0
+END
+
+IDR_MAINMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Exit", ID_FILE_EXIT
+	 END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About", ID_HELP_ABOUT
+    END
+END
+
+//IDI_ICON1 ICON DISCARDABLE "C:/Program Files/Relo/images/app.ico"
+
