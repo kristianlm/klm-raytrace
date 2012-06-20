@@ -1,4 +1,3 @@
-
 ## Simple raytracer
 
 
@@ -8,7 +7,7 @@ to taking a
 course. It's probably of little
 use now, but if anything, the [intersection algorithms](/kristianlm/klm-raytrace/blob/master/vector.cpp) may be worth looking at.
 
-![Raytracer image](http://commons.wikimedia.org/wiki/File:Raytracer.png "Raytracer")
+![Raytracer image](http://upload.wikimedia.org/wikipedia/commons/8/81/Raytracer.png "Raytracer")
 
-KLM
+
 
