@@ -1,28 +1,14 @@
 
-
-Kristian Lein-Mathisen's
-Simple raytracer
-
-				2007-04-10
+## Simple raytracer
 
 
-This code may be freely distributed
-as long as the author's name is cleary
-presented on every publication.
+This is an old project that I wrote in parallel 
+to taking a 
+[linear algebra](http://en.wikipedia.org/wiki/Linear_algebra) 
+course. It's probably of little
+use now, but if anything, the [intersection algorithms](/kristianlm/klm-raytrace/blob/master/vector.cpp) may be worth looking at.
 
-
-
-Source code for a simple Raytracer
-projects should be available in 
-VC++ (.NET version) and DevCpp
-
-
-
-I want to apologize for the poor structure
-of the code and the lack of comments. I hope
-some of it may still be interesting and
-helpful.
-
+![Raytracer image](http://commons.wikimedia.org/wiki/File:Raytracer.png "Raytracer")
 
 KLM
 
